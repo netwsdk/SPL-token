@@ -1,5 +1,6 @@
 {
   "name": "TPAI Token",
   "symbol": "TPAI",
-  "image": "https://raw.githubusercontent.com/netwsdk/SPL-token/main/TPAI-logo.png"
+  "image": "https://raw.githubusercontent.com/netwsdk/SPL-token/main/TPAI-logo.png",
+  "description": "Test token for training"
 }
